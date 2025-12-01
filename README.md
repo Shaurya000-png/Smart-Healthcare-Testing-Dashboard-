@@ -293,3 +293,4 @@ For Linux/macOS systems, use standard shell commands: `npm install` and `npm run
 | 2025-12-01 11:02 | Add node dependency version badge - [![Node Version](https://img.shields.io/badge/node-%3E%3D%2018.0.0-blue.svg)]() |
 | 2025-12-01 11:36 | Add MySQL dependency version badge - [![MySQL Version](https://img.shields.io/badge/mysql-%3E%3D%208.0-orange.svg)]() |
 | 2025-12-01 12:02 | Define project scope in introduction - This dashboard is designed to provide full visibility into healthcare automation testing suites. |
+| 2025-12-01 12:31 | Add system architecture high-level summary - The project follows a standard 3-tier architecture with a React SPA, Express API gateway, and MySQL database. |
