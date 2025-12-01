@@ -299,3 +299,4 @@ For Linux/macOS systems, use standard shell commands: `npm install` and `npm run
 ## Developer Guidelines
  |
 | 2025-12-01 14:52 | Document local environment setup step - Copy the environment configuration file from backend/.env.example to backend/.env. |
+| 2025-12-01 15:23 | Add DB_USER default parameter documentation - Set DB_USER to the default administrative user (usually root). |
