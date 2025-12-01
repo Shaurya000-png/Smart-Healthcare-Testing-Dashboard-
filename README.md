@@ -301,3 +301,4 @@ For Linux/macOS systems, use standard shell commands: `npm install` and `npm run
 | 2025-12-01 14:52 | Document local environment setup step - Copy the environment configuration file from backend/.env.example to backend/.env. |
 | 2025-12-01 15:23 | Add DB_USER default parameter documentation - Set DB_USER to the default administrative user (usually root). |
 | 2025-12-01 15:57 | Add DB_PASSWORD configuration tips - If your local MySQL root user has no password, leave the password field blank in the .env file. |
+| 2025-12-01 16:39 | Add DB_NAME description in environment settings - DB_NAME should point to the database created using database/schema.sql (smart_healthcare_testing). |
