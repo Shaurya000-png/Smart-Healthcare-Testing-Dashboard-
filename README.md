@@ -298,3 +298,4 @@ For Linux/macOS systems, use standard shell commands: `npm install` and `npm run
 | 2025-12-01 14:00 | Add developer guidelines section header - 
 ## Developer Guidelines
  |
+| 2025-12-01 14:52 | Document local environment setup step - Copy the environment configuration file from backend/.env.example to backend/.env. |
