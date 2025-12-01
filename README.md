@@ -290,3 +290,4 @@ For Linux/macOS systems, use standard shell commands: `npm install` and `npm run
 | --- | --- |
 | 2025-12-01 10:01 | Add build status badge to project header - [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)]() |
 | 2025-12-01 10:39 | Add license badge to project header - [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]() |
+| 2025-12-01 11:02 | Add node dependency version badge - [![Node Version](https://img.shields.io/badge/node-%3E%3D%2018.0.0-blue.svg)]() |
