@@ -295,3 +295,6 @@ For Linux/macOS systems, use standard shell commands: `npm install` and `npm run
 | 2025-12-01 12:02 | Define project scope in introduction - This dashboard is designed to provide full visibility into healthcare automation testing suites. |
 | 2025-12-01 12:31 | Add system architecture high-level summary - The project follows a standard 3-tier architecture with a React SPA, Express API gateway, and MySQL database. |
 | 2025-12-01 13:19 | Document node modules exclusion policy - Please ensure node_modules directories are never committed to the remote repository. |
+| 2025-12-01 14:00 | Add developer guidelines section header - 
+## Developer Guidelines
+ |
