@@ -307,3 +307,4 @@ For Linux/macOS systems, use standard shell commands: `npm install` and `npm run
 | 2025-12-02 10:44 | Add features list section header - 
 ## System Features
  |
+| 2025-12-02 11:29 | Add 'Test Case Execution Tracking' feature - - **Test Case Execution Tracking**: Monitor the live status of automated and manual test cases. |
