@@ -303,3 +303,4 @@ For Linux/macOS systems, use standard shell commands: `npm install` and `npm run
 | 2025-12-01 15:57 | Add DB_PASSWORD configuration tips - If your local MySQL root user has no password, leave the password field blank in the .env file. |
 | 2025-12-01 16:39 | Add DB_NAME description in environment settings - DB_NAME should point to the database created using database/schema.sql (smart_healthcare_testing). |
 | 2025-12-02 09:59 | Add PORT config override instructions - The backend server defaults to port 5000, but can be customized using the PORT env variable. |
+| 2025-12-02 10:22 | Document frontend proxy settings - The Vite development server is configured to proxy api requests directly to http://localhost:5000. |
