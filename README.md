@@ -308,3 +308,4 @@ For Linux/macOS systems, use standard shell commands: `npm install` and `npm run
 ## System Features
  |
 | 2025-12-02 11:29 | Add 'Test Case Execution Tracking' feature - - **Test Case Execution Tracking**: Monitor the live status of automated and manual test cases. |
+| 2025-12-02 11:58 | Add 'Bug Tracking and Lifecycle' feature - - **Bug Tracking**: Log defects automatically from failed automation scripts and update status. |
