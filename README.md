@@ -315,3 +315,4 @@ For Linux/macOS systems, use standard shell commands: `npm install` and `npm run
 | --- | --- | --- | --- | |
 | 2025-12-03 10:51 | Add Express dependency details to table - | Backend | express | ^4.18.2 | HTTP Server Framework | |
 | 2025-12-03 11:16 | Add MySQL2 dependency details to table - | Backend | mysql2 | ^3.2.0 | MySQL Client Promise Library | |
+| 2025-12-03 11:52 | Add Dotenv dependency details to table - | Backend | dotenv | ^16.0.3 | Environment Variable Loader | |
