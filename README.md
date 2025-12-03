@@ -318,3 +318,4 @@ For Linux/macOS systems, use standard shell commands: `npm install` and `npm run
 | 2025-12-03 11:52 | Add Dotenv dependency details to table - | Backend | dotenv | ^16.0.3 | Environment Variable Loader | |
 | 2025-12-03 12:39 | Add Cors dependency details to table - | Backend | cors | ^2.8.5 | Cross-Origin Resource Sharing | |
 | 2025-12-03 13:09 | Add React dependency details to table - | Frontend | react | ^18.2.0 | UI Components Framework | |
+| 2025-12-03 14:02 | Add ChartJS dependency details to table - | Frontend | chart.js | ^4.2.1 | Data Visualization Charts | |
