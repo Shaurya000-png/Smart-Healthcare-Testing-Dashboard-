@@ -311,3 +311,5 @@ For Linux/macOS systems, use standard shell commands: `npm install` and `npm run
 | 2025-12-02 11:58 | Add 'Bug Tracking and Lifecycle' feature - - **Bug Tracking**: Log defects automatically from failed automation scripts and update status. |
 | 2025-12-02 12:23 | Add 'Analytics and Reporting' feature - - **Analytics & Reporting**: View passed/failed test statistics and bug severity distribution charts. |
 | 2025-12-02 13:11 | Add 'Interactive Appointment Simulator' feature - - **Appointment Simulator**: Simulate bookings to test API reliability and performance under load. |
+| 2025-12-03 10:18 | Add dependencies table to README - | Component | Dependency | Version | Purpose |
+| --- | --- | --- | --- | |
