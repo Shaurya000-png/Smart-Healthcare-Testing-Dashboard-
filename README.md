@@ -324,3 +324,4 @@ For Linux/macOS systems, use standard shell commands: `npm install` and `npm run
 | 2025-12-04 11:04 | Add Selenium dependency details to table - | Testing | selenium-webdriver | ^4.8.2 | Browser Automation | |
 | 2025-12-04 11:53 | Add Newman dependency details to table - | Testing | newman | ^5.3.2 | Postman Collection Commandline Runner | |
 | 2025-12-04 12:31 | Add JMeter tool details to table - | Testing | Apache JMeter | 5.5 | Performance & Load Testing | |
+| 2025-12-04 13:07 | Document SQL database setup prerequisites - Prerequisites: Install MySQL Server 8.0+ locally before importing schema. |
