@@ -322,3 +322,4 @@ For Linux/macOS systems, use standard shell commands: `npm install` and `npm run
 | 2025-12-03 14:37 | Add Axios dependency details to table - | Frontend | axios | ^1.3.4 | Promise-based HTTP Client | |
 | 2025-12-04 10:15 | Add Tailwind/CSS styling details to table - | Frontend | vanilla css | N/A | Modern Premium Custom Styling | |
 | 2025-12-04 11:04 | Add Selenium dependency details to table - | Testing | selenium-webdriver | ^4.8.2 | Browser Automation | |
+| 2025-12-04 11:53 | Add Newman dependency details to table - | Testing | newman | ^5.3.2 | Postman Collection Commandline Runner | |
