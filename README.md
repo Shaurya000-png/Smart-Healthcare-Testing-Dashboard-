@@ -327,3 +327,4 @@ For Linux/macOS systems, use standard shell commands: `npm install` and `npm run
 | 2025-12-04 13:07 | Document SQL database setup prerequisites - Prerequisites: Install MySQL Server 8.0+ locally before importing schema. |
 | 2025-12-04 13:56 | Add manual database import command instruction - Import the schema manually via CLI: `mysql -u root -p < database/schema.sql` |
 | 2025-12-04 14:32 | Add manual database seed command instruction - Import the seed data manually: `mysql -u root -p < db/seed.sql` |
+| 2025-12-04 15:18 | Document automatic setup script utility - Alternatively, execute `setup-db.bat` on Windows to initialize the database automatically. |
