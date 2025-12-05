@@ -336,3 +336,4 @@ For Linux/macOS systems, use standard shell commands: `npm install` and `npm run
 | 2025-12-05 11:29 | Document GET /api/health endpoint - - **GET /api/health**: Verifies DB connection status and server health. Returns `{ ok: true }`. |
 | 2025-12-05 11:56 | Document POST /api/auth/login input requirements - - **POST /api/auth/login**: Accepts `{ email, password }` payload to authenticate a tester user. |
 | 2025-12-05 12:23 | Document POST /api/auth/login response parameters -   - Response: `{ token, role, name }` on success, or `401 Unauthorized`. |
+| 2025-12-05 13:15 | Document GET /api/testcases endpoint characteristics - - **GET /api/testcases**: Fetches all defined test cases sorted by creation date. |
