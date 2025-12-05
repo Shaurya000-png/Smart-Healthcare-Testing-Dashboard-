@@ -329,3 +329,4 @@ For Linux/macOS systems, use standard shell commands: `npm install` and `npm run
 | 2025-12-04 14:32 | Add manual database seed command instruction - Import the seed data manually: `mysql -u root -p < db/seed.sql` |
 | 2025-12-04 15:18 | Document automatic setup script utility - Alternatively, execute `setup-db.bat` on Windows to initialize the database automatically. |
 | 2025-12-04 16:11 | Add troubleshoot note for database connection errors - Troubleshoot: Ensure the MySQL service is running in Windows Services (services.msc). |
+| 2025-12-05 10:24 | Document default mysql socket configuration - By default, the connection pool uses standard TCP sockets on port 3306. |
