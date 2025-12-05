@@ -333,3 +333,4 @@ For Linux/macOS systems, use standard shell commands: `npm install` and `npm run
 | 2025-12-05 10:56 | Add API reference section header - 
 ## Complete API Documentation
  |
+| 2025-12-05 11:29 | Document GET /api/health endpoint - - **GET /api/health**: Verifies DB connection status and server health. Returns `{ ok: true }`. |
