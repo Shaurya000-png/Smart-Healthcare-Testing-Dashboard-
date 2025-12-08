@@ -344,3 +344,6 @@ For Linux/macOS systems, use standard shell commands: `npm install` and `npm run
 | 2025-12-08 12:22 | Document POST /api/bugs manual logging - - **POST /api/bugs**: Log a bug manually with `{ description, severity, status, test_case_id }`. |
 | 2025-12-08 12:57 | Document PATCH /api/bugs/:id status update - - **PATCH /api/bugs/:id**: Updates bug status (e.g. 'Open', 'In Progress', 'Resolved'). |
 | 2025-12-08 13:43 | Document GET /api/reports summary details - - **GET /api/reports**: Computes dashboard analytics: pass rates, open bugs, and severity distribution. |
+| 2025-12-08 14:36 | Add test cases dashboard module header - 
+### Module: Test Case Management
+ |
