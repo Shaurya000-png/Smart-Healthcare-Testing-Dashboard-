@@ -338,3 +338,4 @@ For Linux/macOS systems, use standard shell commands: `npm install` and `npm run
 | 2025-12-05 12:23 | Document POST /api/auth/login response parameters -   - Response: `{ token, role, name }` on success, or `401 Unauthorized`. |
 | 2025-12-05 13:15 | Document GET /api/testcases endpoint characteristics - - **GET /api/testcases**: Fetches all defined test cases sorted by creation date. |
 | 2025-12-05 13:58 | Document POST /api/testcases payload structure - - **POST /api/testcases**: Creates a new test case. Required: `{ title, steps, expected_result }`. |
+| 2025-12-08 10:31 | Document POST /api/run-test logic and side effects - - **POST /api/run-test**: Records execution results. Payload: `{ test_case_id, actual_result, result }`. |
