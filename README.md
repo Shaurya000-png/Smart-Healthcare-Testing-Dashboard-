@@ -340,3 +340,4 @@ For Linux/macOS systems, use standard shell commands: `npm install` and `npm run
 | 2025-12-05 13:58 | Document POST /api/testcases payload structure - - **POST /api/testcases**: Creates a new test case. Required: `{ title, steps, expected_result }`. |
 | 2025-12-08 10:31 | Document POST /api/run-test logic and side effects - - **POST /api/run-test**: Records execution results. Payload: `{ test_case_id, actual_result, result }`. |
 | 2025-12-08 11:06 | Document automatic bug logging details -   - Note: Setting `result: 'Fail'` automatically logs a corresponding Medium severity bug. |
+| 2025-12-08 11:35 | Document GET /api/bugs tracker endpoint - - **GET /api/bugs**: Returns list of all active and resolved bugs. |
