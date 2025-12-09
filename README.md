@@ -347,3 +347,4 @@ For Linux/macOS systems, use standard shell commands: `npm install` and `npm run
 | 2025-12-08 14:36 | Add test cases dashboard module header - 
 ### Module: Test Case Management
  |
+| 2025-12-09 10:43 | Describe manual test creation workflow UI - The dashboard UI allows QA testers to write new test steps and expected results directly from the browser. |
