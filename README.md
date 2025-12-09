@@ -357,3 +357,4 @@ For Linux/macOS systems, use standard shell commands: `npm install` and `npm run
 | 2025-12-09 13:42 | Add report charts module subsection - 
 ### Module: Analytical Reports & KPI Charts
  |
+| 2025-12-09 14:32 | Explain pass/fail ratio representation - The dashboard features a circular doughnut chart representing the current pass/fail ratio of test suites. |
