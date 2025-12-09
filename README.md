@@ -358,3 +358,4 @@ For Linux/macOS systems, use standard shell commands: `npm install` and `npm run
 ### Module: Analytical Reports & KPI Charts
  |
 | 2025-12-09 14:32 | Explain pass/fail ratio representation - The dashboard features a circular doughnut chart representing the current pass/fail ratio of test suites. |
+| 2025-12-09 15:07 | Explain bug severity distribution bar graph - A custom bar chart visualizes bugs clustered by severity level to help prioritize fixes. |
