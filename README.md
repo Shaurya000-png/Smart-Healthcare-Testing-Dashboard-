@@ -364,3 +364,4 @@ For Linux/macOS systems, use standard shell commands: `npm install` and `npm run
 ## Quick Setup Guides
  |
 | 2025-12-09 17:26 | Add Windows batch setup guide steps - On Windows systems, you can use the configured batch scripts in the project root: |
+| 2025-12-09 17:49 | Describe setup-db.bat functionality - - `setup-db.bat`: Automatically logs into MySQL, drops any old database, and creates a fresh schema. |
