@@ -354,3 +354,6 @@ For Linux/macOS systems, use standard shell commands: `npm install` and `npm run
  |
 | 2025-12-09 12:35 | Describe bug severity options detail - Bugs can be categorized into four severities: Low, Medium, High, and Critical. |
 | 2025-12-09 13:05 | Describe automated bug promotion rule - When a Selenium test case fails, the testing pipeline automatically propagates the failure to the bugs module. |
+| 2025-12-09 13:42 | Add report charts module subsection - 
+### Module: Analytical Reports & KPI Charts
+ |
