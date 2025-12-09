@@ -352,3 +352,4 @@ For Linux/macOS systems, use standard shell commands: `npm install` and `npm run
 | 2025-12-09 11:54 | Add bug tracking module subsection - 
 ### Module: Bug Tracking and Defect Lifecycle
  |
+| 2025-12-09 12:35 | Describe bug severity options detail - Bugs can be categorized into four severities: Low, Medium, High, and Critical. |
