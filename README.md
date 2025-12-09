@@ -348,3 +348,4 @@ For Linux/macOS systems, use standard shell commands: `npm install` and `npm run
 ### Module: Test Case Management
  |
 | 2025-12-09 10:43 | Describe manual test creation workflow UI - The dashboard UI allows QA testers to write new test steps and expected results directly from the browser. |
+| 2025-12-09 11:17 | Describe execution simulator component - A run button allows quick execution simulation to mark tests as Pass or Fail instantly. |
