@@ -363,3 +363,4 @@ For Linux/macOS systems, use standard shell commands: `npm install` and `npm run
 | 2025-12-09 16:52 | Add setup guides section header - 
 ## Quick Setup Guides
  |
+| 2025-12-09 17:26 | Add Windows batch setup guide steps - On Windows systems, you can use the configured batch scripts in the project root: |
