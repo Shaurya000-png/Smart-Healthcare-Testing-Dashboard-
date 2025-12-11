@@ -379,3 +379,4 @@ For Linux/macOS systems, use standard shell commands: `npm install` and `npm run
 | 2025-12-11 14:09 | Add Postman environment configuration guidelines - Adjust target URL in collection variable configuration if backend is hosted on a different port. |
 | 2025-12-11 14:43 | Add Selenium python suite setup prerequisites - Selenium Python tests require: `pip install -r tests/selenium/requirements.txt` |
 | 2025-12-11 15:11 | Document webdriver path settings for Python scripts - Verify ChromeDriver is updated and accessible via system PATH environment variable. |
+| 2025-12-11 16:04 | Add Python Selenium run command guidelines - Execute UI test scripts using: `python tests/selenium/login_ui_tests.py` |
