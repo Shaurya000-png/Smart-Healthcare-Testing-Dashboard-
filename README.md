@@ -381,3 +381,4 @@ For Linux/macOS systems, use standard shell commands: `npm install` and `npm run
 | 2025-12-11 15:11 | Document webdriver path settings for Python scripts - Verify ChromeDriver is updated and accessible via system PATH environment variable. |
 | 2025-12-11 16:04 | Add Python Selenium run command guidelines - Execute UI test scripts using: `python tests/selenium/login_ui_tests.py` |
 | 2025-12-11 16:37 | Document NodeJS Selenium suite script command - Execute JS Selenium scripts using: `node tests/selenium/login-and-booking.test.js` |
+| 2025-12-11 17:17 | Add JMeter performance test execution guide - To execute performance loads: Install Apache JMeter and open the JMX plan from `tests/jmeter/`. |
