@@ -371,3 +371,6 @@ For Linux/macOS systems, use standard shell commands: `npm install` and `npm run
 | 2025-12-11 11:34 | Add Unix/macOS alternative run instructions - 
 For Linux/macOS systems, use standard shell commands: `npm install` and `npm run dev` in each subdirectory.
  |
+| 2025-12-11 12:17 | Add manual test automation instructions header - 
+## Running Test Suites Locally
+ |
