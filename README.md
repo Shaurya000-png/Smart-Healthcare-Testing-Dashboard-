@@ -374,3 +374,4 @@ For Linux/macOS systems, use standard shell commands: `npm install` and `npm run
 | 2025-12-11 12:17 | Add manual test automation instructions header - 
 ## Running Test Suites Locally
  |
+| 2025-12-11 12:49 | Document Postman runner installation prerequisites - Ensure Newman is installed globally to run collections: `npm install -g newman` |
