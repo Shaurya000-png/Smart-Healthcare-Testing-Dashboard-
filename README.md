@@ -376,3 +376,4 @@ For Linux/macOS systems, use standard shell commands: `npm install` and `npm run
  |
 | 2025-12-11 12:49 | Document Postman runner installation prerequisites - Ensure Newman is installed globally to run collections: `npm install -g newman` |
 | 2025-12-11 13:32 | Add Postman API suite run command syntax - Run API collections via: `newman run tests/postman/Healthcare-API-Tests.postman_collection.json` |
+| 2025-12-11 14:09 | Add Postman environment configuration guidelines - Adjust target URL in collection variable configuration if backend is hosted on a different port. |
