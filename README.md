@@ -366,3 +366,4 @@ For Linux/macOS systems, use standard shell commands: `npm install` and `npm run
 | 2025-12-09 17:26 | Add Windows batch setup guide steps - On Windows systems, you can use the configured batch scripts in the project root: |
 | 2025-12-09 17:49 | Describe setup-db.bat functionality - - `setup-db.bat`: Automatically logs into MySQL, drops any old database, and creates a fresh schema. |
 | 2025-12-09 18:42 | Describe setup-seed.bat utility - - `setup-seed.bat`: Populates tables with mock test histories, bugs, and appointments for demo purposes. |
+| 2025-12-11 10:15 | Describe run-backend.bat startup shortcut - - `run-backend.bat`: Installs npm packages if missing and starts the Express server in watch mode. |
