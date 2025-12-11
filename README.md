@@ -368,3 +368,6 @@ For Linux/macOS systems, use standard shell commands: `npm install` and `npm run
 | 2025-12-09 18:42 | Describe setup-seed.bat utility - - `setup-seed.bat`: Populates tables with mock test histories, bugs, and appointments for demo purposes. |
 | 2025-12-11 10:15 | Describe run-backend.bat startup shortcut - - `run-backend.bat`: Installs npm packages if missing and starts the Express server in watch mode. |
 | 2025-12-11 11:09 | Describe run-frontend.bat startup shortcut - - `run-frontend.bat`: Boots the Vite dev server for the React UI dashboard. |
+| 2025-12-11 11:34 | Add Unix/macOS alternative run instructions - 
+For Linux/macOS systems, use standard shell commands: `npm install` and `npm run dev` in each subdirectory.
+ |
