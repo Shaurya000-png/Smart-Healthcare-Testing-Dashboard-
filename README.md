@@ -393,3 +393,6 @@ For Linux/macOS systems, use standard shell commands: `npm install` and `npm run
 | 2025-12-12 13:49 | Describe 'Start Services' stage in pipeline - - **Stage 4: Start Services**: Launches the backend Express app in the background. |
 | 2025-12-12 14:43 | Describe 'Execute Automated Tests' stage in pipeline - - **Stage 5: Test Execution**: Runs Newman collections and Selenium test suites sequentially. |
 | 2025-12-12 15:27 | Describe 'Generate Reports' stage in pipeline - - **Stage 6: Publish Results**: Archive test results, log files, and HTML dashboards. |
+| 2025-12-12 15:55 | Add developer tips subsection - 
+## Tips & Troubleshooting
+ |
