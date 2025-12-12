@@ -383,3 +383,6 @@ For Linux/macOS systems, use standard shell commands: `npm install` and `npm run
 | 2025-12-11 16:37 | Document NodeJS Selenium suite script command - Execute JS Selenium scripts using: `node tests/selenium/login-and-booking.test.js` |
 | 2025-12-11 17:17 | Add JMeter performance test execution guide - To execute performance loads: Install Apache JMeter and open the JMX plan from `tests/jmeter/`. |
 | 2025-12-11 18:10 | Add JMeter CLI non-GUI run command script - Run non-GUI load test: `jmeter -n -t tests/jmeter/healthcare-performance-test-plan.jmx -l results.jtl` |
+| 2025-12-12 10:40 | Add CI/CD pipeline overview subsection - 
+## Continuous Integration (CI/CD) Pipeline
+ |
