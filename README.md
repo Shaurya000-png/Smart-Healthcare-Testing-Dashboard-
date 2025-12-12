@@ -387,3 +387,4 @@ For Linux/macOS systems, use standard shell commands: `npm install` and `npm run
 ## Continuous Integration (CI/CD) Pipeline
  |
 | 2025-12-12 11:20 | Describe Jenkinsfile configuration layout - The repository includes a Jenkinsfile that defines a declarative pipeline with 5 stages. |
+| 2025-12-12 11:56 | Describe 'Checkout' stage in Jenkins pipeline - - **Stage 1: Checkout**: Pulls code branch from GitHub repository into workspace. |
