@@ -386,3 +386,4 @@ For Linux/macOS systems, use standard shell commands: `npm install` and `npm run
 | 2025-12-12 10:40 | Add CI/CD pipeline overview subsection - 
 ## Continuous Integration (CI/CD) Pipeline
  |
+| 2025-12-12 11:20 | Describe Jenkinsfile configuration layout - The repository includes a Jenkinsfile that defines a declarative pipeline with 5 stages. |
