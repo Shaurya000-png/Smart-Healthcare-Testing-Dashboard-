@@ -396,3 +396,4 @@ For Linux/macOS systems, use standard shell commands: `npm install` and `npm run
 | 2025-12-12 15:55 | Add developer tips subsection - 
 ## Tips & Troubleshooting
  |
+| 2025-12-12 16:49 | Add CORS resolution advice to guidelines - CORS issue: Ensure the frontend URL matched in backend cors configuration is correct. |
