@@ -391,3 +391,4 @@ For Linux/macOS systems, use standard shell commands: `npm install` and `npm run
 | 2025-12-12 12:20 | Describe 'Database Setup' stage in pipeline - - **Stage 2: Database Setup**: Bootstraps the local test database instance with clean schema. |
 | 2025-12-12 13:13 | Describe 'Install Dependencies' stage in pipeline - - **Stage 3: Install Dependencies**: Runs npm installs for backend, frontend, and tests. |
 | 2025-12-12 13:49 | Describe 'Start Services' stage in pipeline - - **Stage 4: Start Services**: Launches the backend Express app in the background. |
+| 2025-12-12 14:43 | Describe 'Execute Automated Tests' stage in pipeline - - **Stage 5: Test Execution**: Runs Newman collections and Selenium test suites sequentially. |
