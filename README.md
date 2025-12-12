@@ -389,3 +389,4 @@ For Linux/macOS systems, use standard shell commands: `npm install` and `npm run
 | 2025-12-12 11:20 | Describe Jenkinsfile configuration layout - The repository includes a Jenkinsfile that defines a declarative pipeline with 5 stages. |
 | 2025-12-12 11:56 | Describe 'Checkout' stage in Jenkins pipeline - - **Stage 1: Checkout**: Pulls code branch from GitHub repository into workspace. |
 | 2025-12-12 12:20 | Describe 'Database Setup' stage in pipeline - - **Stage 2: Database Setup**: Bootstraps the local test database instance with clean schema. |
+| 2025-12-12 13:13 | Describe 'Install Dependencies' stage in pipeline - - **Stage 3: Install Dependencies**: Runs npm installs for backend, frontend, and tests. |
