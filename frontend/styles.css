@@ -1,0 +1,136 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+body {
+  background: #f4f7fb;
+  color: #1f2d3d;
+}
+
+.container {
+  width: min(1000px, 92%);
+  margin: 30px auto;
+}
+
+.login-card {
+  max-width: 420px;
+  background: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
+  padding: 24px;
+}
+
+h1 {
+  margin-bottom: 8px;
+}
+
+.subtitle {
+  color: #5f6b7a;
+  margin-bottom: 16px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+label {
+  font-weight: bold;
+}
+
+input {
+  padding: 10px;
+  border: 1px solid #ccd5e1;
+  border-radius: 6px;
+}
+
+button {
+  margin-top: 8px;
+  padding: 10px;
+  border: none;
+  border-radius: 6px;
+  background: #1f6feb;
+  color: #ffffff;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #0f5cd1;
+}
+
+.message {
+  margin-top: 14px;
+  font-weight: bold;
+}
+
+.hint {
+  margin-top: 8px;
+  font-size: 13px;
+  color: #5f6b7a;
+}
+
+.topbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 18px;
+}
+
+nav a {
+  margin-left: 12px;
+  text-decoration: none;
+  color: #1f6feb;
+}
+
+.welcome {
+  margin-bottom: 20px;
+}
+
+.stats {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 14px;
+  margin-bottom: 20px;
+}
+
+.stat-card {
+  background: #ffffff;
+  border-radius: 10px;
+  padding: 16px;
+  box-shadow: 0 5px 14px rgba(0, 0, 0, 0.06);
+}
+
+.stat-card p {
+  font-size: 26px;
+  margin-top: 8px;
+  font-weight: bold;
+}
+
+.pass p {
+  color: #1f9d55;
+}
+
+.fail p {
+  color: #d93025;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  background: #ffffff;
+}
+
+th,
+td {
+  border: 1px solid #d9e1ea;
+  padding: 10px;
+  text-align: left;
+}
+
+th {
+  background: #eaf1ff;
+}
