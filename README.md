@@ -398,3 +398,4 @@ For Linux/macOS systems, use standard shell commands: `npm install` and `npm run
  |
 | 2025-12-12 16:49 | Add CORS resolution advice to guidelines - CORS issue: Ensure the frontend URL matched in backend cors configuration is correct. |
 | 2025-12-12 17:11 | Add node module lockfile update policy - Do not modify package-lock.json manually. Always run npm install to update it automatically. |
+| 2025-12-15 10:01 | Add database table constraints overview - Table constraints enforce foreign key integrity between TestRuns and TestCases. |
