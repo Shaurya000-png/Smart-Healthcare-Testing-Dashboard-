@@ -402,3 +402,4 @@ For Linux/macOS systems, use standard shell commands: `npm install` and `npm run
 | 2025-12-15 10:40 | Document cascade delete behavior for bug tracker - Deleting a TestCase cascade deletes its execution logs and associated bug records. |
 | 2025-12-15 11:27 | Add coding standard specifications link description - Code formatting follows ES6 standards. Lint tools can be run with `npm run lint`. |
 | 2025-12-15 12:12 | Add CSS design variables details - The custom styling dashboard uses modern CSS variables for themes (e.g. `--primary-color`, `--bg-dark`). |
+| 2025-12-15 12:53 | Document CSS custom layout grid setup - Layouts are structured using CSS Grid and Flexbox for native responsive scalability. |
