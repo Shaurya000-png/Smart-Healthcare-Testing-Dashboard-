@@ -415,3 +415,4 @@ For Linux/macOS systems, use standard shell commands: `npm install` and `npm run
 | 2025-12-16 12:30 | Add git branching workflow guide header - 
 ## Git Branching Strategy
  |
+| 2025-12-16 12:59 | Add master/main branch protect instructions - - **main**: Stable production branch. Directly pushing is protected in collaborative setups. |
