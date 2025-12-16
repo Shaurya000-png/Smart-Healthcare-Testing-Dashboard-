@@ -412,3 +412,6 @@ For Linux/macOS systems, use standard shell commands: `npm install` and `npm run
 | 2025-12-16 10:24 | Document frontend production build command - Compile production frontend assets: `npm run build` in the frontend directory. |
 | 2025-12-16 11:11 | Explain dist output directory configuration - The compiled assets are stored in frontend/dist and can be served using static hosts. |
 | 2025-12-16 12:00 | Add backend clustering suggestions - For scaling the backend, consider running node server instances clustered behind NGINX. |
+| 2025-12-16 12:30 | Add git branching workflow guide header - 
+## Git Branching Strategy
+ |
