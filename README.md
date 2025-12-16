@@ -421,3 +421,4 @@ For Linux/macOS systems, use standard shell commands: `npm install` and `npm run
 | 2025-12-16 14:46 | Add pull request verification check guidelines - - **Pull Requests**: Must pass all automated tests and require at least one peer review. |
 | 2025-12-16 15:10 | Add code coverage tools guide - Code coverage is computed using Jest and Istanbul reporter during build. |
 | 2025-12-16 16:00 | Add mock data seed generation script details - Seed scripts generate randomly structured records to simulate 30 days of testing history. |
+| 2025-12-16 16:48 | Document appointment creation validations - Appointment bookings validate patient name length (>3 chars) and future dates. |
