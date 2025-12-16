@@ -410,3 +410,4 @@ For Linux/macOS systems, use standard shell commands: `npm install` and `npm run
 ## Production Compilation
  |
 | 2025-12-16 10:24 | Document frontend production build command - Compile production frontend assets: `npm run build` in the frontend directory. |
+| 2025-12-16 11:11 | Explain dist output directory configuration - The compiled assets are stored in frontend/dist and can be served using static hosts. |
