@@ -418,3 +418,4 @@ For Linux/macOS systems, use standard shell commands: `npm install` and `npm run
 | 2025-12-16 12:59 | Add master/main branch protect instructions - - **main**: Stable production branch. Directly pushing is protected in collaborative setups. |
 | 2025-12-16 13:52 | Add feature branch naming conventions description - - **feature/**: Use descriptive names like `feature/appointment-ui` for new components. |
 | 2025-12-16 14:21 | Add bugfix branch naming conventions description - - **bugfix/**: Prefix branch names with `bugfix/` for resolving tracked issues. |
+| 2025-12-16 14:46 | Add pull request verification check guidelines - - **Pull Requests**: Must pass all automated tests and require at least one peer review. |
