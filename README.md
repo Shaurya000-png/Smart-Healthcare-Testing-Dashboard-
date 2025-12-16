@@ -416,3 +416,4 @@ For Linux/macOS systems, use standard shell commands: `npm install` and `npm run
 ## Git Branching Strategy
  |
 | 2025-12-16 12:59 | Add master/main branch protect instructions - - **main**: Stable production branch. Directly pushing is protected in collaborative setups. |
+| 2025-12-16 13:52 | Add feature branch naming conventions description - - **feature/**: Use descriptive names like `feature/appointment-ui` for new components. |
