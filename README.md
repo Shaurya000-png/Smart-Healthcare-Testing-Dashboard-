@@ -409,3 +409,4 @@ For Linux/macOS systems, use standard shell commands: `npm install` and `npm run
 | 2025-12-15 14:48 | Add production build instruction steps - 
 ## Production Compilation
  |
+| 2025-12-16 10:24 | Document frontend production build command - Compile production frontend assets: `npm run build` in the frontend directory. |
