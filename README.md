@@ -430,3 +430,4 @@ For Linux/macOS systems, use standard shell commands: `npm install` and `npm run
 ## Docker Containerization (Optional)
  |
 | 2025-12-17 13:01 | Document Dockerfile structure summary - The project includes docker configurations for standalone node container runs. |
+| 2025-12-17 13:31 | Document docker-compose multi-service run - Run whole stack: `docker-compose up --build` to boot backend, frontend, and db services. |
