@@ -429,3 +429,4 @@ For Linux/macOS systems, use standard shell commands: `npm install` and `npm run
 | 2025-12-17 12:16 | Add Docker deployment section header - 
 ## Docker Containerization (Optional)
  |
+| 2025-12-17 13:01 | Document Dockerfile structure summary - The project includes docker configurations for standalone node container runs. |
