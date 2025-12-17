@@ -1,0 +1,46 @@
+{
+  "info": {
+    "name": "Healthcare API Tests",
+    "_postman_id": "50e3f271-7580-4f68-95eb-62c86d6fda9f",
+    "description": "Validates login and appointment booking APIs.",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "Login API",
+      "request": {
+        "method": "POST",
+        "header": [{ "key": "Content-Type", "value": "application/json" }],
+        "url": { "raw": "http://localhost:5000/api/auth/login", "protocol": "http", "host": ["localhost"], "port": "5000", "path": ["api", "auth", "login"] },
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"email\": \"tester@healthcare.com\",\n  \"password\": \"Test@123\"\n}"
+        }
+      },
+      "event": [
+        {
+          "listen": "test",
+          "script": { "exec": ["pm.test('Status is 200', function () {", "  pm.response.to.have.status(200);", "});"] }
+        }
+      ]
+    },
+    {
+      "name": "Booking API",
+      "request": {
+        "method": "POST",
+        "header": [{ "key": "Content-Type", "value": "application/json" }],
+        "url": { "raw": "http://localhost:5000/api/appointments", "protocol": "http", "host": ["localhost"], "port": "5000", "path": ["api", "appointments"] },
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"patient_name\": \"John Doe\",\n  \"doctor_name\": \"Dr. Smith\",\n  \"appointment_date\": \"2026-05-01 10:30:00\",\n  \"notes\": \"Follow-up\"\n}"
+        }
+      },
+      "event": [
+        {
+          "listen": "test",
+          "script": { "exec": ["pm.test('Status is 201', function () {", "  pm.response.to.have.status(201);", "});"] }
+        }
+      ]
+    }
+  ]
+}
