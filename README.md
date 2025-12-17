@@ -423,3 +423,4 @@ For Linux/macOS systems, use standard shell commands: `npm install` and `npm run
 | 2025-12-16 16:00 | Add mock data seed generation script details - Seed scripts generate randomly structured records to simulate 30 days of testing history. |
 | 2025-12-16 16:48 | Document appointment creation validations - Appointment bookings validate patient name length (>3 chars) and future dates. |
 | 2025-12-17 10:29 | Add system load testing capacity details - The JMeter plan is configured to simulate 50 concurrent users accessing API routes. |
+| 2025-12-17 10:56 | Document response time SLA metrics threshold - API response SLA target is set to <150ms for normal read/write queries. |
