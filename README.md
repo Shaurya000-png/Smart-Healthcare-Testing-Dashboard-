@@ -432,3 +432,6 @@ For Linux/macOS systems, use standard shell commands: `npm install` and `npm run
 | 2025-12-17 13:01 | Document Dockerfile structure summary - The project includes docker configurations for standalone node container runs. |
 | 2025-12-17 13:31 | Document docker-compose multi-service run - Run whole stack: `docker-compose up --build` to boot backend, frontend, and db services. |
 | 2025-12-17 14:25 | Add environment variables checklist for Docker - Docker environment variables are configured in the compose config root file. |
+| 2025-12-17 15:16 | Add project roadmap section header - 
+## Project Roadmap
+ |
