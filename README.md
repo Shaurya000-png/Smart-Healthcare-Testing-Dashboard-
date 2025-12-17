@@ -436,3 +436,4 @@ For Linux/macOS systems, use standard shell commands: `npm install` and `npm run
 ## Project Roadmap
  |
 | 2025-12-17 16:09 | Add milestone Q1: Slack notifications integration - - **Q1 Milestone**: Add Slack Webhook integration for instant failure alerts. |
+| 2025-12-17 16:42 | Add milestone Q2: AI analytics summary generation - - **Q2 Milestone**: Utilize local LLM APIs to draft automated bug descriptions. |
