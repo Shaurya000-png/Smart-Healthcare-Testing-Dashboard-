@@ -450,3 +450,4 @@ For Linux/macOS systems, use standard shell commands: `npm install` and `npm run
 | 2025-12-18 13:04 | Add thanks to ChartJS developers note - - Thanks to ChartJS developers for the beautiful canvas dashboard widgets. |
 | 2025-12-18 13:56 | Add thanks to Selenium automation maintainers - - Thanks to Selenium webdriver project for making UI browser tests easy. |
 | 2025-12-18 14:47 | Add QA status dashboard widget summary - A quick info panel summarizes current test coverage and unresolved bugs. |
+| 2025-12-18 15:33 | Document login page authentication checks - Login inputs require valid email formats before making HTTP auth queries. |
