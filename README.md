@@ -438,3 +438,6 @@ For Linux/macOS systems, use standard shell commands: `npm install` and `npm run
 | 2025-12-17 16:09 | Add milestone Q1: Slack notifications integration - - **Q1 Milestone**: Add Slack Webhook integration for instant failure alerts. |
 | 2025-12-17 16:42 | Add milestone Q2: AI analytics summary generation - - **Q2 Milestone**: Utilize local LLM APIs to draft automated bug descriptions. |
 | 2025-12-17 17:02 | Add milestone Q3: Multi-tenant user roles support - - **Q3 Milestone**: Add admin, manager, and tester authentication roles. |
+| 2025-12-18 10:07 | Add license policy details header - 
+## License
+ |
