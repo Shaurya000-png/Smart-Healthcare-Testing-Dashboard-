@@ -447,3 +447,4 @@ For Linux/macOS systems, use standard shell commands: `npm install` and `npm run
 ## Acknowledgements
  |
 | 2025-12-18 12:35 | Add thanks to React community note - - Thanks to the React and Vite team for modern asset pipelines. |
+| 2025-12-18 13:04 | Add thanks to ChartJS developers note - - Thanks to ChartJS developers for the beautiful canvas dashboard widgets. |
