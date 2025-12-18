@@ -441,3 +441,4 @@ For Linux/macOS systems, use standard shell commands: `npm install` and `npm run
 | 2025-12-18 10:07 | Add license policy details header - 
 ## License
  |
+| 2025-12-18 10:52 | Document MIT license terms outline - Distributed under the MIT License. See LICENSE for details. |
