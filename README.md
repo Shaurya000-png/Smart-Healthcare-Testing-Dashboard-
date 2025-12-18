@@ -442,3 +442,4 @@ For Linux/macOS systems, use standard shell commands: `npm install` and `npm run
 ## License
  |
 | 2025-12-18 10:52 | Document MIT license terms outline - Distributed under the MIT License. See LICENSE for details. |
+| 2025-12-18 11:28 | Add contact information for maintainers - For support or queries, contact the development lead: Shaurya (shauryapratapsingh9415@gmail.com). |
