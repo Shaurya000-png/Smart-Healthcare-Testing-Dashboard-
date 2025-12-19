@@ -456,3 +456,4 @@ For Linux/macOS systems, use standard shell commands: `npm install` and `npm run
 | 2025-12-19 11:52 | Document database seed cleanup steps - To clear mock data, run: `mysql -u root -p -e 'TRUNCATE TestRuns; TRUNCATE Bugs;'` |
 | 2025-12-19 12:22 | Add mock authorization token format explanation - The mock JWT token contains payload details specifying user role: 'tester'. |
 | 2025-12-19 12:55 | Add browser test execution headless switch instructions - UI tests can be executed in headless mode by changing options in the selenium python scripts. |
+| 2025-12-19 13:17 | Document package.json custom scripts descriptions - Custom script: `npm run dev` executes backend with nodemon tool support. |
