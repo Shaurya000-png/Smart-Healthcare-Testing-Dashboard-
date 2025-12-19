@@ -461,3 +461,4 @@ For Linux/macOS systems, use standard shell commands: `npm install` and `npm run
 | 2025-12-19 14:29 | Document database table columns design table - | Table | Columns | Keys | Notes |
 | --- | --- | --- | --- | |
 | 2025-12-19 15:21 | Add database table info for Users to schema spec - | Users | id, email, password | PK(id), UQ(email) | Store QA credentials | |
+| 2025-12-19 16:13 | Add table info for TestCases to schema spec - | TestCases | id, title, steps, expected_result, actual_result, status | PK(id) | Test case definition repository | |
