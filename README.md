@@ -458,3 +458,5 @@ For Linux/macOS systems, use standard shell commands: `npm install` and `npm run
 | 2025-12-19 12:55 | Add browser test execution headless switch instructions - UI tests can be executed in headless mode by changing options in the selenium python scripts. |
 | 2025-12-19 13:17 | Document package.json custom scripts descriptions - Custom script: `npm run dev` executes backend with nodemon tool support. |
 | 2025-12-19 13:46 | Add code refactoring checklist guidelines - Refactor guidelines: Maintain modular server endpoints inside separate router folders. |
+| 2025-12-19 14:29 | Document database table columns design table - | Table | Columns | Keys | Notes |
+| --- | --- | --- | --- | |
