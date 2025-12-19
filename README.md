@@ -463,3 +463,4 @@ For Linux/macOS systems, use standard shell commands: `npm install` and `npm run
 | 2025-12-19 15:21 | Add database table info for Users to schema spec - | Users | id, email, password | PK(id), UQ(email) | Store QA credentials | |
 | 2025-12-19 16:13 | Add table info for TestCases to schema spec - | TestCases | id, title, steps, expected_result, actual_result, status | PK(id) | Test case definition repository | |
 | 2025-12-19 16:52 | Add table info for TestRuns to schema spec - | TestRuns | id, test_case_id, result, execution_date | PK(id), FK(test_case_id) | Execution metrics | |
+| 2025-12-19 17:19 | Add table info for Bugs to schema spec - | Bugs | id, description, severity, status, test_case_id | PK(id), FK(test_case_id) | Bug tracker entries | |
