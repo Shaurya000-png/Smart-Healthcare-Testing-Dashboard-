@@ -454,3 +454,4 @@ For Linux/macOS systems, use standard shell commands: `npm install` and `npm run
 | 2025-12-19 10:15 | Add API testing best practices guidelines - Best Practice: Always reset db state using setup-db.bat before running test collections. |
 | 2025-12-19 11:06 | Add manual test suite importing templates guide - Import pre-written QA manual test XLS templates from the docs directory. |
 | 2025-12-19 11:52 | Document database seed cleanup steps - To clear mock data, run: `mysql -u root -p -e 'TRUNCATE TestRuns; TRUNCATE Bugs;'` |
+| 2025-12-19 12:22 | Add mock authorization token format explanation - The mock JWT token contains payload details specifying user role: 'tester'. |
