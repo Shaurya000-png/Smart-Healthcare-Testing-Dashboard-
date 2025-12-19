@@ -460,3 +460,4 @@ For Linux/macOS systems, use standard shell commands: `npm install` and `npm run
 | 2025-12-19 13:46 | Add code refactoring checklist guidelines - Refactor guidelines: Maintain modular server endpoints inside separate router folders. |
 | 2025-12-19 14:29 | Document database table columns design table - | Table | Columns | Keys | Notes |
 | --- | --- | --- | --- | |
+| 2025-12-19 15:21 | Add database table info for Users to schema spec - | Users | id, email, password | PK(id), UQ(email) | Store QA credentials | |
