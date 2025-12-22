@@ -473,3 +473,6 @@ For Linux/macOS systems, use standard shell commands: `npm install` and `npm run
 | 2025-12-22 13:33 | Document HTML layout viewport scaling configuration - Viewport meta configuration: `width=device-width, initial-scale=1.0` |
 | 2025-12-22 14:15 | Add stylesheet importing instructions - Global stylesheet classes are defined in styles.css and imported in index.html. |
 | 2025-12-22 15:03 | Document JavaScript local storage caching logic - Local storage is utilized to persist user sessions and auth tokens on login. |
+| 2025-12-22 15:51 | Add contributing code of conduct header - 
+## Code of Conduct
+ |
