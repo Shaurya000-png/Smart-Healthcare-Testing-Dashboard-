@@ -471,3 +471,4 @@ For Linux/macOS systems, use standard shell commands: `npm install` and `npm run
 | 2025-12-22 11:51 | Document backend process runner guide - Use process managers like PM2 to keep backend active: `pm2 start backend/server.js` |
 | 2025-12-22 12:39 | Add browser compatibility configuration list - Dashboard compatibility: Tested on Chrome (v110+), Firefox (v105+), Safari (v16+). |
 | 2025-12-22 13:33 | Document HTML layout viewport scaling configuration - Viewport meta configuration: `width=device-width, initial-scale=1.0` |
+| 2025-12-22 14:15 | Add stylesheet importing instructions - Global stylesheet classes are defined in styles.css and imported in index.html. |
