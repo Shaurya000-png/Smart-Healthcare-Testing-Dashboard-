@@ -467,3 +467,4 @@ For Linux/macOS systems, use standard shell commands: `npm install` and `npm run
 | 2025-12-19 17:56 | Add table info for Appointments to schema spec - | Appointments | id, patient_name, doctor_name, appointment_date, notes | PK(id) | Health mock booking entity | |
 | 2025-12-22 10:29 | Add API latency target metrics summary - Latency specifications: read endpoints target <50ms; write operations <200ms. |
 | 2025-12-22 10:50 | Add security hardening checklist - Security Hardening: Restrict CORS origins to authorized production domain hosts. |
+| 2025-12-22 11:12 | Add NPM dependency audit check instructions - Perform package safety audits periodically using command: `npm audit` |
