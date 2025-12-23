@@ -480,3 +480,4 @@ For Linux/macOS systems, use standard shell commands: `npm install` and `npm run
 | 2025-12-22 16:55 | Add API test assertion rules outline - API Assertion: All tests must assert correct HTTP response status codes. |
 | 2025-12-22 17:49 | Document automation script log tracking configuration - Automation runs output console logs directly to tests/selenium/output.log. |
 | 2025-12-22 18:31 | Add JMeter testing assertions detailed guide - JMeter plan utilizes Response Assertion to check for HTTP 201 on appointments API. |
+| 2025-12-23 09:49 | Add postman collection mock database isolation guideline - Mock database state is automatically isolated by Newman during local execution. |
