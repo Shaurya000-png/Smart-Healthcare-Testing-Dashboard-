@@ -488,3 +488,4 @@ For Linux/macOS systems, use standard shell commands: `npm install` and `npm run
 | 2025-12-23 13:20 | Add quick tips for VSCode extension tooling setup - Recommended VS Code Extensions: ESLint, Prettier, and MySQL Database Client. |
 | 2025-12-23 14:07 | Add unit test integration guidelines - To integrate unit tests, add Jest config to backend/package.json file. |
 | 2025-12-23 14:39 | Document database connection retry timeout configuration - The database connection pool retries failing connections up to 5 times. |
+| 2025-12-23 15:28 | Add mock server testing options suggestions - Alternatively, configure a Mock Server in Postman to run tests without running Node backend. |
