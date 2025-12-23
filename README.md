@@ -483,3 +483,4 @@ For Linux/macOS systems, use standard shell commands: `npm install` and `npm run
 | 2025-12-23 09:49 | Add postman collection mock database isolation guideline - Mock database state is automatically isolated by Newman during local execution. |
 | 2025-12-23 10:32 | Document database transaction isolation configuration - The database pool config uses repeatable read transaction isolation default. |
 | 2025-12-23 10:59 | Add UI layout responsive breakpoints details - Responsive breakpoints: small (600px), medium (900px), large (1200px). |
+| 2025-12-23 11:48 | Add custom CSS font settings configuration - Google Fonts 'Inter' and 'Outfit' are loaded globally for premium appearance. |
