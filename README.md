@@ -490,3 +490,4 @@ For Linux/macOS systems, use standard shell commands: `npm install` and `npm run
 | 2025-12-23 14:39 | Document database connection retry timeout configuration - The database connection pool retries failing connections up to 5 times. |
 | 2025-12-23 15:28 | Add mock server testing options suggestions - Alternatively, configure a Mock Server in Postman to run tests without running Node backend. |
 | 2025-12-24 09:23 | Add package dependency installation check instructions - To verify installed node package integrity: `npm shrinkwrap` or check lockfile. |
+| 2025-12-24 09:52 | Add backend API rate limit guidelines config - To prevent API abuse, consider adding express-rate-limit middleware. |
