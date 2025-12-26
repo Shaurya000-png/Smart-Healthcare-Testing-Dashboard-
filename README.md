@@ -494,3 +494,4 @@ For Linux/macOS systems, use standard shell commands: `npm install` and `npm run
 | 2025-12-24 10:13 | Document React chart animation settings optimization - Chart animations are disabled on small displays to optimize UI performance. |
 | 2025-12-24 10:43 | Add database backup recovery CLI commands description - Back up the database: `mysqldump -u root -p smart_healthcare_testing > backup.sql` |
 | 2025-12-26 09:29 | Add instructions to run selenium scripts inside container environment - To run Selenium in Docker: configure standard Standalone-Chrome container service. |
+| 2025-12-26 10:21 | Document clean build cleanup commands for frontend - Clean build frontend artifacts: `rm -rf dist` and execute compile target again. |
