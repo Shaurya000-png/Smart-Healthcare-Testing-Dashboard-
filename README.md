@@ -497,3 +497,4 @@ For Linux/macOS systems, use standard shell commands: `npm install` and `npm run
 | 2025-12-26 10:21 | Document clean build cleanup commands for frontend - Clean build frontend artifacts: `rm -rf dist` and execute compile target again. |
 | 2025-12-26 10:59 | Add project credits list note - Credits: Open-source dependencies and contributors around the world. |
 | 2025-12-29 09:54 | Update development details revision 170 - Refined documentation guidelines sub-section details #170. |
+| 2025-12-29 10:49 | Update development details revision 171 - Refined documentation guidelines sub-section details #171. |
