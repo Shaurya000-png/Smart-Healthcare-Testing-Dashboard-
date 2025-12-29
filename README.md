@@ -496,3 +496,4 @@ For Linux/macOS systems, use standard shell commands: `npm install` and `npm run
 | 2025-12-26 09:29 | Add instructions to run selenium scripts inside container environment - To run Selenium in Docker: configure standard Standalone-Chrome container service. |
 | 2025-12-26 10:21 | Document clean build cleanup commands for frontend - Clean build frontend artifacts: `rm -rf dist` and execute compile target again. |
 | 2025-12-26 10:59 | Add project credits list note - Credits: Open-source dependencies and contributors around the world. |
+| 2025-12-29 09:54 | Update development details revision 170 - Refined documentation guidelines sub-section details #170. |
